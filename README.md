@@ -11,12 +11,12 @@
 <br/><br/>
 
 <!-- NAME + TITLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AROCK+JEBERSON+J;AI+&+ML+%7C+FIGMA+CREATOR;AI+%26+DATA+SCIENCE+ENGINEER;DISCORD+BOT+ARCHITECT;IoT+%2B+HARDWARE+HACKER" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AROCK+JEBERSON+J;AI+&+ML+%7C+FIGMA+CREATOR;AI+%26+DATA+SCIENCE+ENGINEER;3D+%26+BLENDER+ARTIST;DISCORD+BOT+ARCHITECT;IoT+%2B+HARDWARE+HACKER" />
 
 <br/>
 
 <!-- SUBTITLE BLINK -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1200&pause=200&color=39FF14&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+BOOT+COMPLETE...;%5BUNITY%5D+SCENE+LOADED+%E2%9C%93;%5BC%23%5D+SCRIPTS+COMPILED+%E2%9C%93;%5BAI%5D+MODEL+TRAINED+%E2%9C%93;%5BIoT%5D+DEVICES+CONNECTED+%E2%9C%93;%5BSTATUS%5D+%E2%96%BA+READY+TO+BUILD" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1200&pause=200&color=39FF14&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+BOOT+COMPLETE...;%5BUNITY%5D+SCENE+LOADED+%E2%9C%93;%5BC%23%5D+SCRIPTS+COMPILED+%E2%9C%93;%5BFIGMA%5D+DESIGN+SYNCED+%E2%9C%93;%5BBLENDER%5D+MESH+RENDERED+%E2%9C%93;%5BAI%5D+MODEL+TRAINED+%E2%9C%93;%5BIoT%5D+DEVICES+CONNECTED+%E2%9C%93;%5BSTATUS%5D+%E2%96%BA+READY+TO+BUILD" />
 
 </div>
 
@@ -27,12 +27,12 @@
 ```json
 {
   "name"       : "AROCK ",
-  "domine"      : "AI&ML ,FRONTEND DEV",
+  "domain"     : "AI&ML ,FRONTEND DEV",
   "level"      : 20,
   "college"    : "Stella Mary's College of Engineering",
   "department" : "AI & Data Science",
   "engine"     : "Unity 2024",
-  "stack"      : ["Unity", "C#", "Python", "Arduino", "ESP32"],
+  "stack"      : ["Unity", "C#", "Python", "Arduino", "ESP32", "Figma", "Blender"],
   "status"     : "🟢 ONLINE — Currently Building",
   "faction"    : "zenitu"
 }
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1000&pause=180&color=00FF88&center=true&vCenter=true&width=700&lines=HP+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+%E2%80%94+FULL+HEALTH;XP+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D++75%25+%E2%80%94+LEVELING+UP;STR++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D++90%25+%E2%80%94+FIGMA+FORGE;INT++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D++72%25+%E2%80%94+AI+&+ML;DEX++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D++85%25+%E2%80%94+BOT+SPEED;CHA++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D++86%25+%E2%80%94+UI+PRESENCE" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=1000&pause=180&color=00FF88&center=true&vCenter=true&width=700&lines=HP+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+%E2%80%94+FULL+HEALTH;XP+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D++75%25+%E2%80%94+LEVELING+UP;STR++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D++90%25+%E2%80%94+FIGMA+FORGE;INT++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D++72%25+%E2%80%94+AI+&+ML;DEX++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D++85%25+%E2%80%94+BOT+SPEED;CHA++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D++86%25+%E2%80%94+UI+PRESENCE;VFX++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D++80%25+%E2%80%94+BLENDER+3D" />
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1400&pause=350&color=00FF88&center=false&vCenter=true&width=700&lines=%3E+PlayerPrefs.SetString(%22name%22%2C+%22Shaber%22)%3B;%3E+Application.LoadScene(%22MainGame%22)%3B;%3E+Physics.Gravity+%3D+new+Vector3(0%2C+-9.81f%2C+0)%3B;%3E+Instantiate(discordBot%2C+Vector3.zero)%3B;%3E+StartCoroutine(BuildProject(%22VIVA+404%22))%3B;%3E+Debug.Log(%22All+systems+nominal.+Deploying...%22)%3B;%3E+SceneManager.LoadSceneAsync(%22NEXT_LEVEL%22)%3B" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1400&pause=350&color=00FF88&center=false&vCenter=true&width=700&lines=%3E+PlayerPrefs.SetString(%22name%22%2C+%22Shaber%22)%3B;%3E+Application.LoadScene(%22MainGame%22)%3B;%3E+Physics.Gravity+%3D+new+Vector3(0%2C+-9.81f%2C+0)%3B;%3E+Instantiate(discordBot%2C+Vector3.zero)%3B;%3E+bpy.ops.mesh.primitive_cube_add()%3B;%3E+figma.currentPage.selection%3B;%3E+StartCoroutine(BuildProject(%22VIVA+404%22))%3B;%3E+Debug.Log(%22All+systems+nominal.+Deploying...%22)%3B;%3E+SceneManager.LoadSceneAsync(%22NEXT_LEVEL%22)%3B" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=900&pause=150&color=00FF88&center=true&vCenter=true&width=700&lines=%5BGAME+DEV%5D++++Unity+%2B+C%23+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+90%25;%5BBOTS%5D+++++Discord.py++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+85%25;%5BUI%5D+++++++Figma+Design+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+86%25;%5BIoT%5D+++++++ESP32%2FArduino+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+80%25;%5BWEB%5D+++++++HTML%2FCSS%2FJS++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+76%25;%5BAI%2FML%5D++++Python+%2B+TF++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D+72%25" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=900&pause=150&color=00FF88&center=true&vCenter=true&width=700&lines=%5BGAME+DEV%5D++++Unity+%2B+C%23+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+90%25;%5BBOTS%5D+++++Discord.py++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+85%25;%5BUI%2FUX%5D++++Figma+Design+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+86%25;%5B3D%2FVFX%5D+++Blender+3D+++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+80%25;%5BIoT%5D+++++++ESP32%2FArduino+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+80%25;%5BWEB%5D+++++++HTML%2FCSS%2FJS++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+76%25;%5BAI%2FML%5D++++Python+%2B+TF++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D+72%25" />
 
 </div>
 
@@ -139,7 +139,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1600&pause=400&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+AI+&+ML;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+WEB+SITE+CREATOR;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+IoT+HARDWARE;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FRONTEND+WEB+DEV;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+AI+%26+DATA+SCIENCE;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+COMMUNITY+FOUNDER;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FILMMAKER+UNLOCKED" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1600&pause=400&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+AI+&+ML;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+WEB+SITE+CREATOR;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+IoT+HARDWARE;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FRONTEND+WEB+DEV;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FIGMA+UI%2FUX;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+BLENDER+3D+ART;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+AI+%26+DATA+SCIENCE;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+COMMUNITY+FOUNDER;%F0%9F%8F%86+ACHIEVEMENT+UNLOCKED%3A+FILMMAKER+UNLOCKED" />
 
 </div>
 
@@ -151,6 +151,8 @@
 ╠══════════════════════════════════════════════════════╣
 ║  🧠  AI & ML                   [RANK: ADVANCED]      ║
 ║  🌐  Frontend Web Dev          [RANK: VETERAN]       ║
+║  🎨  Figma UI/UX Design        [RANK: VETERAN]       ║
+║  🧊  Blender 3D Art            [RANK: PROFICIENT]    ║
 ║  🔌  IoT Hardware              [RANK: VETERAN]       ║
 ║  🤖  Discord Bot Architect     [RANK: PROFICIENT]    ║
 ║  🎮  website game dev          [RANK: APPRENTICE+]   ║
@@ -186,6 +188,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shabermohamadb&style=for-the-badge&color=00ff88&label=PLAYERS+VISITED" />
+<img src="https://komarev.com/ghpvc/?username=arockje-blip&style=for-the-badge&color=00ff88&label=PLAYERS+VISITED" />
 
 </div>
